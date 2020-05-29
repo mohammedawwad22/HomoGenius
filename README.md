@@ -1,0 +1,2 @@
+# HomoGenius
+Smart Home System 
